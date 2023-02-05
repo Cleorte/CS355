@@ -1,0 +1,24 @@
+#maindiv{
+font-weight: bold;
+background-color: blue;
+margin: 45;
+padding: 20px;
+}
+
+.special{
+    background-color: aquamarine !important;
+}
+
+#one, #two{
+    width: 50px;
+    height: 50px;
+}
+#img{
+    width: 50%;
+    height: 50%;
+}
+
+#three, #four{
+    width: 600px;
+    height: 50px;
+}
