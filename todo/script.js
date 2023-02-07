@@ -11,7 +11,7 @@ function addClickableDiv(place){
     d.addEventListener('click', function(){
         d.classList.add ( 'completed') ;
     });
-    
+    todoTextInput.value="";
 }
 
 todoAddButton.addEventListener('click', addClickableDiv);
