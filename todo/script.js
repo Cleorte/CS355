@@ -1,4 +1,4 @@
-
+'use strict'
 
 const mainDiv = document.getElementById("main");
 const todoTextInput = document.getElementById("todoContent");
