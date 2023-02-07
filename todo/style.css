@@ -1,0 +1,28 @@
+*{
+    margin: 10px;
+    padding: 5px;
+    font-size: 20pt;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: goldenrod;
+}
+
+#main{
+    background-color: antiquewhite;
+}
+#addTodo{
+    background-color: cornflowerblue;
+}
+
+button{
+    display:block;
+}
+
+.todo{
+    background-color: antiquewhite;
+}
+.completed{
+    background-color: aqua;
+    border: solid;
+}
